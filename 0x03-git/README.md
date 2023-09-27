@@ -8,6 +8,7 @@
 * Commit and add changes in a repository
 * Pull and push to respository
 * Branching
+* Merging branch and resolving conflicts
 
 ---
 ** Let's Roll 🚀 **
